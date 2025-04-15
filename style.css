@@ -1,0 +1,187 @@
+body{
+    margin: 0;
+    background-color: black;
+}
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    background-color: black;
+}
+.nav-left{
+    padding-left: 20px;
+}
+.side-logo{
+    height: 180px; 
+}
+.a1{
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    padding: 10px;  
+}
+.nav-right{
+    padding-right: 30px;
+    font-size: large;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.home{
+    display: flex;
+    color: white;
+    font-family: "Montserrat", sans-serif;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: row;
+    height: 70vh;
+}
+.home-left{
+    width: 50vw;
+    text-align: right;
+    padding-left: 100px;
+}
+.home-right{
+    width: 50vw;
+    padding-left: 200px;
+}
+.profile-logo{
+    height: 350px;
+    padding-right: 200px;
+}
+.education{
+    color: white;
+    padding: 40px;
+    text-align: center;
+
+}
+.edu-details{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(119, 236, 119);
+    letter-spacing: 4px;
+    font-size: 40px;
+    font-style: italic;
+}
+.education-sub-cont{
+    display: flex;
+    flex-direction: row;
+}
+.education-details{
+    border: rgb(119, 236, 119) solid 2px;
+    margin: 20px;
+    padding: 20px;
+    width: 400px;
+}
+.ed-h1{
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    color: cyan;
+
+}
+.ed-p{
+    font-family: "Montserrat", sans-serif;
+    font-size: 18px;
+}
+.project{
+    color: white;
+    padding: 40px;
+    text-align: center;
+}
+.project-details{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(119, 236, 119);
+    letter-spacing: 4px;
+    font-size: 40px;
+    font-style: italic;
+}
+.project-sub-cont{
+    display: flex;
+    flex-direction: row;
+}
+.pro-details{
+    border: rgb(119, 236, 119) solid 2px;
+    margin: 20px;
+    padding: center;
+    align-items: center;
+    width: 1400px;
+}
+.title{
+    font-family: "Montserrat", sans-serif;
+    font-size: 23px;
+    color: cyan;
+   
+}
+.pro-sum{
+    font-family: "Montserrat", sans-serif;
+    font-size: 40px; 
+    text-align: center;
+}
+.contact{
+    color: white;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;  
+}
+.contact-head{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(119, 236, 119);
+    letter-spacing: 4px;
+    font-size: 40px;
+    font-style: italic;
+}
+.contact-info{
+    color: white;
+    font-size: 20px;
+    font-family: "Montserrat", sans-serif;
+}
+.social-icons{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+.social-icon-img{
+    padding-top:5px;
+    height: 110px; 
+    width: 110px;
+}
+.social-icon-img2{
+    padding-top: 30px;
+    height: 60px;
+    width: 60px;
+}
+.social-icon-img3{
+    padding-top:3px;
+    height: 120px;
+    width: 120px;
+}
+.social-icon-img4{
+    padding-top:38px;
+    height: 45px;
+    width: 45px;
+}
+.skills{
+    color: white;
+    text-align: center;
+    font-family: "Montserrat", sans-serif;  
+    
+}
+.h1-skill{
+    font-family: "Montserrat", sans-serif;
+    color: rgb(119, 236, 119);
+    letter-spacing: 6px;
+    font-size: 45px;
+    font-style: italic;
+}
+.skill-sub{
+    padding: 20px;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+.logo-1{
+    height: 120px;
+    padding: 40px;
+} 
+.skill-p{
+    padding: 20px;
+}
